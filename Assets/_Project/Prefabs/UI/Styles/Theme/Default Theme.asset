@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8e1deb5d0ef4722881146bc7b1cc3d8, type: 3}
+  m_Name: Default Theme
+  m_EditorClassIdentifier: AES.Tools::UITheme
+  themeName: Default
+  primaryNormal: {fileID: 11400000, guid: faa8e59dc2f024b248285141d14c3f2c, type: 2}
+  secondaryNormal: {fileID: 0}
+  dangerNormal: {fileID: 11400000, guid: e6ac0cc0347b54a7386ed1674ca0b85d, type: 2}
+  ghostNormal: {fileID: 0}
+  utilityNormal: {fileID: 0}
+  primaryFramed: {fileID: 0}
+  secondaryFramed: {fileID: 0}
+  dangerFramed: {fileID: 0}
+  ghostFramed: {fileID: 0}
+  utilityFramed: {fileID: 0}
+  primaryIconOnly: {fileID: 0}
+  secondaryIconOnly: {fileID: 0}
+  dangerIconOnly: {fileID: 0}
+  ghostIconOnly: {fileID: 0}
+  utilityIconOnly: {fileID: 0}

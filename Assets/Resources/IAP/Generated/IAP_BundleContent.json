@@ -1,0 +1,208 @@
+﻿{
+  "mode": "IapBundleContentJson",
+  "rows": [
+    {
+      "BundleKey": "mcs_starter_bundle",
+      "ItemType": "Coin",
+      "Amount": "1000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_starter_bundle",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "60",
+      "IsMain": "FALSE",
+      "DisplayOrder": "2"
+    },
+    {
+      "BundleKey": "mcs_starter_bundle",
+      "ItemType": "Boosters",
+      "Amount": "1",
+      "IsMain": "FALSE",
+      "DisplayOrder": "3"
+    },
+    {
+      "BundleKey": "mcs_apprentice_bundle",
+      "ItemType": "Coin",
+      "Amount": "2000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_apprentice_bundle",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "180",
+      "IsMain": "FALSE",
+      "DisplayOrder": "2"
+    },
+    {
+      "BundleKey": "mcs_apprentice_bundle",
+      "ItemType": "Boosters",
+      "Amount": "1",
+      "IsMain": "FALSE",
+      "DisplayOrder": "3"
+    },
+    {
+      "BundleKey": "mcs_apprentice_bundle",
+      "ItemType": "RemoveAds",
+      "Amount": "1",
+      "IsMain": "FALSE",
+      "DisplayOrder": "6"
+    },
+    {
+      "BundleKey": "mcs_magician_bundle",
+      "ItemType": "Coin",
+      "Amount": "4000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_magician_bundle",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "360",
+      "IsMain": "FALSE",
+      "DisplayOrder": "2"
+    },
+    {
+      "BundleKey": "mcs_magician_bundle",
+      "ItemType": "Boosters",
+      "Amount": "3",
+      "IsMain": "FALSE",
+      "DisplayOrder": "3"
+    },
+    {
+      "BundleKey": "mcs_magician_bundle",
+      "ItemType": "RemoveAds",
+      "Amount": "1",
+      "IsMain": "FALSE",
+      "DisplayOrder": "6"
+    },
+    {
+      "BundleKey": "mcs_sorcerer_bundle",
+      "ItemType": "Coin",
+      "Amount": "8000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_sorcerer_bundle",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "720",
+      "IsMain": "FALSE",
+      "DisplayOrder": "2"
+    },
+    {
+      "BundleKey": "mcs_sorcerer_bundle",
+      "ItemType": "Boosters",
+      "Amount": "8",
+      "IsMain": "FALSE",
+      "DisplayOrder": "3"
+    },
+    {
+      "BundleKey": "mcs_sorcerer_bundle",
+      "ItemType": "RemoveAds",
+      "Amount": "1",
+      "IsMain": "FALSE",
+      "DisplayOrder": "6"
+    },
+    {
+      "BundleKey": "mcs_mage_bundle",
+      "ItemType": "Coin",
+      "Amount": "20000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_mage_bundle",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "2160",
+      "IsMain": "FALSE",
+      "DisplayOrder": "2"
+    },
+    {
+      "BundleKey": "mcs_mage_bundle",
+      "ItemType": "Boosters",
+      "Amount": "18",
+      "IsMain": "FALSE",
+      "DisplayOrder": "3"
+    },
+    {
+      "BundleKey": "mcs_mage_bundle",
+      "ItemType": "RemoveAds",
+      "Amount": "1",
+      "IsMain": "FALSE",
+      "DisplayOrder": "6"
+    },
+    {
+      "BundleKey": "mcs_wizard_bundle",
+      "ItemType": "Coin",
+      "Amount": "60000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_wizard_bundle",
+      "ItemType": "UnlimitedLivesMin",
+      "Amount": "4320",
+      "IsMain": "FALSE",
+      "DisplayOrder": "2"
+    },
+    {
+      "BundleKey": "mcs_wizard_bundle",
+      "ItemType": "Boosters",
+      "Amount": "36",
+      "IsMain": "FALSE",
+      "DisplayOrder": "3"
+    },
+    {
+      "BundleKey": "mcs_wizard_bundle",
+      "ItemType": "RemoveAds",
+      "Amount": "1",
+      "IsMain": "FALSE",
+      "DisplayOrder": "6"
+    },
+    {
+      "BundleKey": "mcs_1000_coin",
+      "ItemType": "Coin",
+      "Amount": "1000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_5000_coin",
+      "ItemType": "Coin",
+      "Amount": "5000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_10000_coin",
+      "ItemType": "Coin",
+      "Amount": "10000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_25000_coin",
+      "ItemType": "Coin",
+      "Amount": "25000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_50000_coin",
+      "ItemType": "Coin",
+      "Amount": "50000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    },
+    {
+      "BundleKey": "mcs_100000_coin",
+      "ItemType": "Coin",
+      "Amount": "100000",
+      "IsMain": "TRUE",
+      "DisplayOrder": "1"
+    }
+  ]
+}

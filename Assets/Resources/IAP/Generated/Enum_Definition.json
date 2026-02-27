@@ -1,0 +1,101 @@
+﻿{
+  "mode": "EnumDefinitionJson",
+  "rows": [
+    {
+      "EnumName": "ProductType",
+      "EnumValue": "Consumable",
+      "DisplayName": "Consumable",
+      "Description": "소모형 상품",
+      "SortOrder": "1",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "ProductType",
+      "EnumValue": "NonConsumable",
+      "DisplayName": "Non-Consumable",
+      "Description": "비소모형 상품",
+      "SortOrder": "2",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "ProductType",
+      "EnumValue": "Subscription",
+      "DisplayName": "Subscription",
+      "Description": "구독 상품",
+      "SortOrder": "3",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "Platform",
+      "EnumValue": "GP",
+      "DisplayName": "Google Play",
+      "Description": "구글 플레이 스토어",
+      "SortOrder": "1",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "Platform",
+      "EnumValue": "IOS",
+      "DisplayName": "App Store",
+      "Description": "애플 앱스토어",
+      "SortOrder": "2",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "Category",
+      "EnumValue": "Bundle",
+      "DisplayName": "Bundle",
+      "Description": "번들 상품",
+      "SortOrder": "1",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "Category",
+      "EnumValue": "Coin",
+      "DisplayName": "Coin",
+      "Description": "코인 상품",
+      "SortOrder": "2",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "Category",
+      "EnumValue": "Special",
+      "DisplayName": "Special",
+      "Description": "특수 상품(광고제거 등)",
+      "SortOrder": "3",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "ItemType",
+      "EnumValue": "Coin",
+      "DisplayName": "Coin",
+      "Description": "코인(재화)",
+      "SortOrder": "1",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "ItemType",
+      "EnumValue": "UnlimitedLivesMin",
+      "DisplayName": "UnlimitedLives",
+      "Description": "무한하트(분)",
+      "SortOrder": "2",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "ItemType",
+      "EnumValue": "Boosters",
+      "DisplayName": "Booster",
+      "Description": "부스터 아이템들",
+      "SortOrder": "3",
+      "IsActive": "TRUE"
+    },
+    {
+      "EnumName": "ItemType",
+      "EnumValue": "RemoveAds",
+      "DisplayName": "RemoveAds",
+      "Description": "광고 제거",
+      "SortOrder": "4",
+      "IsActive": "TRUE"
+    }
+  ]
+}

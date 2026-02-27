@@ -1,0 +1,149 @@
+﻿{
+  "mode": "IapProductJson",
+  "rows": [
+    {
+      "ProductKey": "mcs_starter_bundle",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "DisplayGroup": "Starter",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "1",
+      "DisplayKey": "shop.mcs_starter_bundle.title",
+      "AnalyticsId": "starter_1100",
+      "Note": "1회 구매, 90% 할인 태그"
+    },
+    {
+      "ProductKey": "mcs_apprentice_bundle",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "DisplayGroup": "Bundle",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "2",
+      "DisplayKey": "shop.mcs_apprentice_bundle.title",
+      "AnalyticsId": "bundle_6600",
+      "Note": ""
+    },
+    {
+      "ProductKey": "mcs_magician_bundle",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "DisplayGroup": "Bundle",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "3",
+      "DisplayKey": "shop.mcs_magician_bundle.title",
+      "AnalyticsId": "bundle_14000",
+      "Note": ""
+    },
+    {
+      "ProductKey": "mcs_sorcerer_bundle",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "DisplayGroup": "Bundle",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "4",
+      "DisplayKey": "shop.mcs_sorcerer_bundle.title",
+      "AnalyticsId": "bundle_29000",
+      "Note": "인기 있음(Popular)"
+    },
+    {
+      "ProductKey": "mcs_mage_bundle",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "DisplayGroup": "Bundle",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "5",
+      "DisplayKey": "shop.mcs_mage_bundle.title",
+      "AnalyticsId": "bundle_66000",
+      "Note": ""
+    },
+    {
+      "ProductKey": "mcs_wizard_bundle",
+      "ProductType": "Consumable",
+      "Category": "Bundle",
+      "DisplayGroup": "Bundle",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "6",
+      "DisplayKey": "shop.mcs_wizard_bundle.title",
+      "AnalyticsId": "bundle_149000",
+      "Note": ""
+    },
+    {
+      "ProductKey": "mcs_1000_coin",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "DisplayGroup": "Coin",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "10",
+      "DisplayKey": "shop.mcs_1000_coin.title",
+      "AnalyticsId": "coin_1000",
+      "Note": ""
+    },
+    {
+      "ProductKey": "mcs_5000_coin",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "DisplayGroup": "Coin",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "11",
+      "DisplayKey": "shop.mcs_5000_coin.title",
+      "AnalyticsId": "coin_5000",
+      "Note": ""
+    },
+    {
+      "ProductKey": "mcs_10000_coin",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "DisplayGroup": "Coin",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "12",
+      "DisplayKey": "shop.mcs_10000_coin.title",
+      "AnalyticsId": "coin_10000",
+      "Note": ""
+    },
+    {
+      "ProductKey": "mcs_25000_coin",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "DisplayGroup": "Coin",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "13",
+      "DisplayKey": "shop.mcs_25000_coin.title",
+      "AnalyticsId": "coin_25000",
+      "Note": ""
+    },
+    {
+      "ProductKey": "mcs_50000_coin",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "DisplayGroup": "Coin",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "14",
+      "DisplayKey": "shop.mcs_50000_coin.title",
+      "AnalyticsId": "coin_50000",
+      "Note": ""
+    },
+    {
+      "ProductKey": "mcs_100000_coin",
+      "ProductType": "Consumable",
+      "Category": "Coin",
+      "DisplayGroup": "Coin",
+      "VerifyOnServer": "FALSE",
+      "IsVisible": "TRUE",
+      "SortOrder": "15",
+      "DisplayKey": "shop.mcs_100000_coin.title",
+      "AnalyticsId": "coin_100000",
+      "Note": ""
+    }
+  ]
+}

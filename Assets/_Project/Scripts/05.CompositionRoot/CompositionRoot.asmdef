@@ -1,0 +1,16 @@
+{
+  "name": "CompositionRoot",
+  "rootNamespace": "Composition",
+  "references": [
+    "Domain",
+    "App",
+    "Infrastructure",
+    "Presentation",
+    "AES.Tools",
+    "VContainer",
+    "AES.Tools.VContainer",
+    "UniTask",
+    "MoreMountains.Tools",
+    "Tools"
+  ]
+}

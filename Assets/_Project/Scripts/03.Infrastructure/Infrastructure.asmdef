@@ -1,0 +1,21 @@
+{
+  "name": "Infrastructure",
+  "rootNamespace": "Infrastructure",
+  "references": [
+    "Domain",
+    "AYellowpaper.SerializedCollections",
+    "UniTask",
+    "AES.Tools",
+    "App",
+    "AES.Tools.VContainer"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

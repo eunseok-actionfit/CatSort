@@ -1,0 +1,13 @@
+{
+  "name": "App",
+  "rootNamespace": "App",
+  "autoReferenced": false,
+  "references": [
+    "AES.Tools",
+    "AES.Tools.VContainer",
+    "Domain",
+    "UniTask",
+    "VContainer",
+    "Unity.TextMeshPro"
+  ]
+}

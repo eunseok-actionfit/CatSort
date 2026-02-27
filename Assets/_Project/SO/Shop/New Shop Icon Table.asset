@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b9245fb885449a3abe86efec5071f01, type: 3}
+  m_Name: New Shop Icon Table
+  m_EditorClassIdentifier: Presentation::ShopIconTable
+  coin_1000: {fileID: 21300000, guid: 119bb5fc7674c40d5ba9da3120acc1a9, type: 3}
+  coin_5000: {fileID: 21300000, guid: 06cd779451cdc48249275a54729981cd, type: 3}
+  coin_10000: {fileID: 21300000, guid: d6fd0bd3a7839429a92112c6ff5f7b82, type: 3}
+  coin_25000: {fileID: 21300000, guid: 63988720030254df09241e17c2649d1d, type: 3}
+  coin_50000: {fileID: 21300000, guid: 9dc4b256bdbaf46578372774cb52c4cc, type: 3}
+  coin_100000: {fileID: 21300000, guid: cdc57505c6acb411390977729b8c18ec, type: 3}
+  heart: {fileID: 21300000, guid: 6a8dfc2feb59d4b69ac521afa4dd5d8c, type: 3}
+  boosterUndo: {fileID: 21300000, guid: e849c92007fb94dd9ad9cf8c72c4941e, type: 3}
+  boosterShuffle: {fileID: 21300000, guid: d2fbb2c95419246ae82506c42429260d, type: 3}
+  boosterAddColumn: {fileID: 21300000, guid: b5e418d203b8242a281f004d53ed7276, type: 3}
+  removeAds: {fileID: 21300000, guid: eec9f8711295e467d8d29ff445e6d0af, type: 3}

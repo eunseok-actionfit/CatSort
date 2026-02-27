@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 453c4ac936d904b9dafeeaf9a43d34f2, type: 3}
+  m_Name: New App Config
+  m_EditorClassIdentifier: AES.Tools::AES.Tools.AppConfig
+  storageProfile: {fileID: 11400000, guid: dc20bf8e603154acfa1828b0c1859cba, type: 2}
+  modules:
+  - {fileID: 11400000, guid: a90fd720af0f244aabf8b653a9d5bc24, type: 2}
+  - {fileID: 11400000, guid: e6d2b107ccfad4116a3d3b422c48f70a, type: 2}
+  - {fileID: 11400000, guid: 74c0e7164d5ce4f47a1cad0ef3a5ae8c, type: 2}
+  - {fileID: 11400000, guid: 43c46658602254934aa9c6899ebde356, type: 2}
+  - {fileID: 11400000, guid: 9d4f7d488d88641a7a18445fde8ce890, type: 2}

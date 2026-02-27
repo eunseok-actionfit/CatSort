@@ -1,0 +1,18 @@
+{
+  "name": "Domain",
+  "rootNamespace": "Domain",
+  "references": [
+    "UniTask",
+    "AES.Tools",
+    "AYellowpaper.SerializedCollections"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

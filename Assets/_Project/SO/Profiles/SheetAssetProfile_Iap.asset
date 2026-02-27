@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5bbc900be4c49319092f6111a02704f, type: 3}
+  m_Name: SheetAssetProfile_Iap
+  m_EditorClassIdentifier: AES.Tools.Editor::AES.IAP.Editor.Sheets.SheetAssetProfile_Iap
+  sheetId: 1jTH4pLXe5NWgNHZuOktjTau9lYpGQd-_YzhTI1P7Z6M
+  serviceAccountJson: {fileID: 4900000, guid: 3fbc66eb1b85c4634a112a442657b572, type: 3}
+  sheets:
+  - name: Enum_Definition
+    gid: 1838518203
+    mode: 0
+  - name: IAP_Product
+    gid: 1810621348
+    mode: 1
+  - name: IAP_StoreProduct
+    gid: 768131737
+    mode: 2
+  - name: IAP_BundleContent
+    gid: 58113968
+    mode: 3
+  - name: Economy_Value
+    gid: 677107604
+    mode: 4
+  - name: IAP_Limit
+    gid: 1738216847
+    mode: 5

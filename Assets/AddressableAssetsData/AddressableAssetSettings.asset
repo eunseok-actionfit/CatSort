@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetSettings
+  m_DefaultGroup: 873dff1c67ebf440ebbe18b22c7a8e88
+  m_currentHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_OptimizeCatalogSize: 0
+  m_BuildRemoteCatalog: 0
+  m_CatalogRequestsTimeout: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_InternalIdNamingMode: 0
+  m_InternalBundleIdMode: 1
+  m_AssetLoadMode: 0
+  m_BundledAssetProviderType:
+    m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_ClassName: UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider
+  m_AssetBundleProviderType:
+    m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    m_ClassName: UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider
+  m_IgnoreUnsupportedFilesInBuild: 0
+  m_UniqueBundleIds: 0
+  m_EnableJsonCatalog: 0
+  m_NonRecursiveBuilding: 1
+  m_AllowNestedBundleFolders: 0
+  m_CCDEnabled: 0
+  m_maxConcurrentWebRequests: 3
+  m_UseUWRForLocalBundles: 0
+  m_BundleTimeout: 0
+  m_BundleRetryCount: 0
+  m_BundleRedirectLimit: -1
+  m_SharedBundleSettings: 0
+  m_SharedBundleSettingsCustomGroupIndex: 0
+  m_ContiguousBundles: 1
+  m_StripUnityVersionFromBundleBuild: 0
+  m_DisableVisibleSubAssetRepresentations: 0
+  m_BuiltInBundleNaming: 0
+  mBuiltInBundleCustomNaming: 
+  m_MonoScriptBundleNaming: 0
+  m_CheckForContentUpdateRestrictionsOption: 0
+  m_MonoScriptBundleCustomNaming: 
+  m_RemoteCatalogBuildPath:
+    m_Id: 
+  m_RemoteCatalogLoadPath:
+    m_Id: 
+  m_ContentStateBuildPathProfileVariableName: 
+  m_CustomContentStateBuildPath: 
+  m_ContentStateBuildPath: 
+  m_BuildAddressablesWithPlayerBuild: 0
+  m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 4f30adf41c0f54390a131e4acd84a59a, type: 2}
+  - {fileID: 11400000, guid: 192e6496c58464472804533d6d2b706b, type: 2}
+  - {fileID: 11400000, guid: 0f195a8480f834e3db3a76623bbe97e6, type: 2}
+  - {fileID: 11400000, guid: f1a77088613494ec39cc9feafbb88b4c, type: 2}
+  - {fileID: 11400000, guid: 4476b1e26879042ccb09a91f91d4bad9, type: 2}
+  - {fileID: 11400000, guid: c66a4b6d59b9242118d5563e060a9df1, type: 2}
+  - {fileID: 11400000, guid: 953605dccd1b240959eba0ebf71b7029, type: 2}
+  - {fileID: 11400000, guid: 35c8f9691bb5044c297a785d4f9b3006, type: 2}
+  - {fileID: 11400000, guid: 52936241b52824fe68992fb0f0a9f273, type: 2}
+  - {fileID: 11400000, guid: 17ccdcaf07dc14cedb1cecad9c5d42a7, type: 2}
+  - {fileID: 11400000, guid: 64cafba325eb94cd793fa824ff2a1533, type: 2}
+  m_BuildSettings:
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: e39846aa4b47044e7b08974bcbb73337
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: 123aad750cc8c42adbfc73fae1f7a5c8
+        m_Value: <undefined>
+      - m_Id: 1e647115d92ad4f0086195949c566886
+        m_Value: 'ServerData/[BuildTarget]'
+      - m_Id: 4228d953d57e34c2cacb5d63f9013073
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: a013bc92506654ca4b3aa4cebc18dabf
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: daa1b05c0f3a64b70b4050699a6c5ca0
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+    m_ProfileEntryNames:
+    - m_Id: 123aad750cc8c42adbfc73fae1f7a5c8
+      m_Name: Remote.LoadPath
+      m_InlineUsage: 0
+    - m_Id: 1e647115d92ad4f0086195949c566886
+      m_Name: Remote.BuildPath
+      m_InlineUsage: 0
+    - m_Id: 4228d953d57e34c2cacb5d63f9013073
+      m_Name: Local.LoadPath
+      m_InlineUsage: 0
+    - m_Id: a013bc92506654ca4b3aa4cebc18dabf
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: daa1b05c0f3a64b70b4050699a6c5ca0
+      m_Name: Local.BuildPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - stage-l1
+    - stage
+    - stage-l2
+    - stage-l3
+    - stage-l4
+    - stage-l5
+    - stage-l6
+    - stage-l7
+    - stage-l8
+    - stage-l9
+    - stage-l10
+    - stage-l11
+    - stage-l12
+    - stage-l13
+    - stage-l14
+    - stage-l15
+    - stage-l16
+    - stage-l17
+    - stage-l18
+    - stage-l19
+    - stage-l20
+    - stage-l21
+    - stage-l22
+    - stage-l23
+    - stage-l24
+    - stage-l25
+    - stage-l26
+    - stage-l27
+    - stage-l28
+    - stage-l29
+    - stage-l30
+    - stage-l31
+    - stage-l32
+    - stage-l33
+    - stage-l34
+    - stage-l35
+    - stage-l36
+    - stage-l37
+    - stage-l38
+    - stage-l39
+    - stage-l40
+    - stage-l41
+    - stage-l42
+    - stage-l43
+    - stage-l44
+    - stage-l45
+    - stage-l46
+    - stage-l47
+    - stage-l48
+    - stage-l49
+    - stage-l50
+    - stage-l51
+    - stage-l52
+    - stage-l53
+    - stage-l54
+    - stage-l55
+    - stage-l56
+    - Locale
+    - Locale-en
+    - Locale-ja
+    - Locale-ko
+    - stage-l57
+    - stage-l58
+    - stage-l59
+    - stage-l60
+    - stage-l61
+    - stage-l62
+    - stage-l63
+    - stage-l64
+    - stage-l65
+    - stage-l66
+    - stage-l67
+    - stage-l68
+    - stage-l69
+    - stage-l70
+    - stage-l71
+    - stage-l72
+    - stage-l73
+    - stage-l74
+    - stage-l75
+    - stage-l76
+    - stage-l77
+    - stage-l78
+    - stage-l79
+    - stage-l80
+    - stage-l81
+    - stage-l82
+    - stage-l83
+    - stage-l84
+    - stage-l85
+    - stage-l86
+    - stage-l87
+    - stage-l88
+    - stage-l89
+    - stage-l90
+    - stage-l91
+    - stage-l92
+    - stage-l93
+    - stage-l94
+    - stage-l95
+    - stage-l96
+    - stage-l97
+    - stage-l98
+    - stage-l99
+    - stage-l100
+    - stage-l101
+    - stage-l102
+    - stage-l103
+    - stage-l104
+    - stage-l105
+    - stage-l106
+    - stage-l107
+    - stage-l108
+    - stage-l109
+    - stage-l110
+    - stage-l111
+    - stage-l112
+    - stage-l113
+    - stage-l114
+    - stage-l115
+    - stage-l116
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: 2c1fef3d64ed64bf5b4116649b352e1d, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 2
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 472f92f8aa2d742ab852dd077949ed95, type: 2}
+  - {fileID: 11400000, guid: 5aab40fb5cbca415fb359c7a58346081, type: 2}
+  - {fileID: 11400000, guid: 749ed4a35874d46f38e6e307a942d80a, type: 2}
+  m_ActiveProfileId: e39846aa4b47044e7b08974bcbb73337

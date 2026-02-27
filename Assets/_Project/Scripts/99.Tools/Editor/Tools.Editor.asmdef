@@ -1,0 +1,22 @@
+{
+    "name": "Tools.Editor",
+    "rootNamespace": "AES.Tools.Editor",
+    "references": [
+        "Unity.Addressables.Editor",
+        "Tools",
+        "AES.Tools",
+        "AES.Tools.VContainer",
+        "Unity.Purchasing"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

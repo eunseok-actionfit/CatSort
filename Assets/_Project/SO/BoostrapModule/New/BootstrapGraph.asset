@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e3094e78b7143428f5e8837c47a8ee1, type: 3}
+  m_Name: BootstrapGraph
+  m_EditorClassIdentifier: AES.Tools.VContainer::AES.Tools.VContainer.Bootstrap.Framework.BootstrapGraph
+  defaultProfile: Dev
+  profiles:
+  - profileName: 
+    features:
+    - feature: {fileID: 11400000, guid: 0dd5d3ea6232f42bcb7bff0808e7542d, type: 2}
+      enabled: 1
+      overrides: []
+    - feature: {fileID: 11400000, guid: 8a9bd56477bd54336a25528408176fe9, type: 2}
+      enabled: 1
+      overrides: []
+    - feature: {fileID: 11400000, guid: 9dae94e7b60824bcda8db92bb5751d69, type: 2}
+      enabled: 1
+      overrides: []
+    - feature: {fileID: 11400000, guid: 240a1cf21f6ef4791ab8084d2171929c, type: 2}
+      enabled: 1
+      overrides: []
+    - feature: {fileID: 11400000, guid: 14453fddc666b4e80bd94d01e1975860, type: 2}
+      enabled: 1
+      overrides: []
+    - feature: {fileID: 11400000, guid: 172044bc608254369aee53c27e1e0a19, type: 2}
+      enabled: 1
+      overrides: []
+    - feature: {fileID: 11400000, guid: 76d463528cd5b48b4962c444bdff6920, type: 2}
+      enabled: 1
+      overrides: []
+    - feature: {fileID: 11400000, guid: a4e0fe59b114546c2a4abd17fd2349b2, type: 2}
+      enabled: 1
+      overrides: []

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI_Shop Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: UI_Shop
+  m_TableCollectionNameGuidString: 09a49389af09c4e3db864168e9ca12d9
+  m_Entries:
+  - m_Id: 772136755200
+    m_Key: shop.mcs_starter_bundle.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 897613553664
+    m_Key: shop.mcs_apprentice_bundle.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161151819177984
+    m_Key: shop.mcs_magician_bundle.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089976918016
+    m_Key: shop.mcs_sorcerer_bundle.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1206373048320
+    m_Key: shop.mcs_mage_bundle.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8777729302528
+    m_Key: shop.mcs_wizard_bundle.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160058137632768
+    m_Key: shop.mcs_1000_coin.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160096570040320
+    m_Key: shop.mcs_5000_coin.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160138127204352
+    m_Key: shop.mcs_10000_coin.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160154019422208
+    m_Key: shop.mcs_25000_coin.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160169517375488
+    m_Key: shop.mcs_50000_coin.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 160182985285632
+    m_Key: shop.mcs_100000_coin.title
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3663178355932135580
+  references:
+    version: 2
+    RefIds:
+    - rid: 3663178355932135580
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1765752517896

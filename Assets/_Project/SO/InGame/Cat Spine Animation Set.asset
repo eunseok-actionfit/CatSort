@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03c732f545fe4f9d812a28676c074356, type: 3}
+  m_Name: Cat Spine Animation Set
+  m_EditorClassIdentifier: Presentation::CatSpineAnimationSet
+  idleLoop: {fileID: 11400000, guid: 40a43a027a0b24a87ae409e9878fb811, type: 2}
+  idleVariants:
+  - {fileID: 11400000, guid: 49ff1a096507649d0acd76a2b3b70fd5, type: 2}
+  - {fileID: 11400000, guid: 7703c627f92f547eba5ba2a6fcc45fdd, type: 2}
+  - {fileID: 11400000, guid: 38b995c9ccee44c22b31f5b62f77b042, type: 2}
+  - {fileID: 11400000, guid: 82313a5fcc69348ce9c0e9e205bbb7c2, type: 2}
+  jumpSets:
+  - jump: {fileID: 11400000, guid: f86d1abb99cf64a22ae4f0dc1ea11e91, type: 2}
+    jumpIdle: {fileID: 11400000, guid: b7677b4920c6a424186b84a845ac6378, type: 2}
+    land: {fileID: 11400000, guid: 098f264711f1b4fc5a77f2fcc5df52d8, type: 2}
+  - jump: {fileID: 11400000, guid: bfe3c58f0a85d4f039af77f595aa1049, type: 2}
+    jumpIdle: {fileID: 11400000, guid: bcf4900357216445281289e7e4f1f78a, type: 2}
+    land: {fileID: 11400000, guid: 98494ddcb789a406ca47e125f5febc39, type: 2}
+  - jump: {fileID: 11400000, guid: bfdf23e7c27cd48498f81854fa0e7580, type: 2}
+    jumpIdle: {fileID: 11400000, guid: 154de5ea20f35444cbf62b2727be4196, type: 2}
+    land: {fileID: 11400000, guid: 8445e9ac6c75942d3915671dbae9d6b3, type: 2}
+  complete: {fileID: 11400000, guid: a996ed20932554e3196c967ad0101d9a, type: 2}
+  eatLoop: {fileID: 11400000, guid: 9e10fa92ae1fb4476b4dcc0bda4db4c7, type: 2}

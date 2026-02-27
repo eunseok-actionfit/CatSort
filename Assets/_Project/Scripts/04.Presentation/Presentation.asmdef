@@ -1,0 +1,32 @@
+{
+    "name": "Presentation",
+    "rootNamespace": "Presentation",
+    "references": [
+        "Domain",
+        "AES.Tools",
+        "AES.Tools.VContainer",
+        "UniTask",
+        "VContainer",
+        "Unity.TextMeshPro",
+        "Infrastructure",
+        "MoreMountains.Tools",
+        "AYellowpaper.SerializedCollections",
+        "ThirdParty",
+        "App",
+        "SimpleFileBrowser.Runtime",
+        "spine-csharp",
+        "spine-unity",
+        "Lofelt.NiceVibrations",
+        "UnityUIExtensions",
+        "Tools"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

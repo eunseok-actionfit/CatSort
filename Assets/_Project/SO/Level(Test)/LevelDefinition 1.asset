@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 868a1db838da4342980f01f39c9f332d, type: 3}
+  m_Name: LevelDefinition 1
+  m_EditorClassIdentifier: Infrastructure::Infrastructure.LevelDefinitionData
+  levelId: 2
+  layoutType: 0
+  spacingX: 3
+  spacingY: 6
+  gridRowCount: 2
+  arcRadius: 3
+  arcStartAngle: 0
+  arcEndAngle: 180
+  columns:
+  - capacity: 4
+    catsFromBottomToTop:
+    - color: 1
+      isHidden: 0
+    - color: 1
+      isHidden: 0
+    - color: 1
+      isHidden: 0
+    - color: 2
+      isHidden: 0
+    behaviorType: 1
+    requiredColor: 2
+  - capacity: 4
+    catsFromBottomToTop:
+    - color: 1
+      isHidden: 1
+    - color: 2
+      isHidden: 1
+    - color: 2
+      isHidden: 1
+    - color: 1
+      isHidden: 0
+    behaviorType: 0
+    requiredColor: 0
+  - capacity: 4
+    catsFromBottomToTop:
+    - color: 1
+      isHidden: 0
+    - color: 2
+      isHidden: 0
+    - color: 2
+      isHidden: 0
+    behaviorType: 0
+    requiredColor: 0
+  - capacity: 4
+    catsFromBottomToTop: []
+    behaviorType: 0
+    requiredColor: 0
+  - capacity: 4
+    catsFromBottomToTop: []
+    behaviorType: 2
+    requiredColor: 0

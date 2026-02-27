@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 023757fd96d8a46b4a617c91af235c88, type: 3}
+  m_Name: New UIW Indow Registry
+  m_EditorClassIdentifier: Presentation::UIWIndowRegistry
+  entries:
+    _serializedList:
+    - Key: 7
+      Value:
+        prefab: {fileID: 2209006792443409230, guid: 627d30e2e95b54380a7df2b5ddfc921e, type: 3}
+        addressGuid: 
+        UsePool: 0
+        Capacity: 0
+        WarmUp: 0

@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Stages_0100_0199
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Stages_0100_0199
+  m_GUID: 58f8efddaae444c898e0ce3f6d53d14b
+  m_SerializeEntries:
+  - m_GUID: 2c5c3531611524dada9b891ee8702597
+    m_Address: stages/111/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l111
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e94706f2d9ea4b31a0fdd08d37975a2
+    m_Address: stages/110/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l110
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31d0fde1d0abb40098898cfe0e659c9e
+    m_Address: stages/102/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l102
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37c6e78d840c044ff9d3cd78f652a91a
+    m_Address: stages/108/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l108
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bf5d22588bd84a37b0663b3612ee3a5
+    m_Address: stages/104/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l104
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45a1a098b9e7d4323844685473736dc1
+    m_Address: stages/101/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l101
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58b0e479f79a24907b81e04846c09658
+    m_Address: stages/100/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l100
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c5731e609049428f88397b511e6fd46
+    m_Address: stages/114/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l114
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dd699e4d5ebc4cd693ee9077b5850cd
+    m_Address: stages/106/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l106
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dd94cea2bcc64ed1836df1a0c31fc5e
+    m_Address: stages/103/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l103
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7264c8d6493f6406ebf8c8ebe8d125a1
+    m_Address: stages/112/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l112
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cacc95d53dab40d386f2cbc5f585985
+    m_Address: stages/116/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l116
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d94a7eb1bc1b49e98ad16e8ab001f5a
+    m_Address: stages/105/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l105
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b435b189e1e914290972552e1ff22c46
+    m_Address: stages/115/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l115
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6fccaf410b854c0b8e151ca9d4f1861
+    m_Address: stages/107/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l107
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd4a1ed2569b14310939f4b16044489f
+    m_Address: stages/113/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l113
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe3789fb191ae441cac0609c0dc84568
+    m_Address: stages/109/0
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - stage
+    - stage-l109
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 128b62fd20808471ab70aa92e40c73b6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 364d6edeebad84b848ded2cf1d1fd1f5, type: 2}
+    - {fileID: 11400000, guid: 174822fdf700143b096d6662072c4939, type: 2}

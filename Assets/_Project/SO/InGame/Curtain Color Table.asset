@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ba60fc470544e0905b0525d33211fe, type: 3}
+  m_Name: Curtain Color Table
+  m_EditorClassIdentifier: Presentation::CurtainColorTable
+  table:
+    _serializedList:
+    - Key: 1
+      Value:
+        header: {fileID: 21300000, guid: e1420b1978b274a818e67a945f56927a, type: 3}
+        fabric: {fileID: 21300000, guid: e62f1593fcfe14ddd83f170cb0720e9f, type: 3}
+    - Key: 2
+      Value:
+        header: {fileID: 21300000, guid: d2104aa7f1d2a4dd68416b2d13488d7b, type: 3}
+        fabric: {fileID: 21300000, guid: 4cf3d43892f244c05827338aef1d552e, type: 3}
+    - Key: 3
+      Value:
+        header: {fileID: 21300000, guid: 4be64b281a1d54d3c8c726dac5c9fc55, type: 3}
+        fabric: {fileID: 21300000, guid: 832603a19eae447689deae1121400dfb, type: 3}
+    - Key: 4
+      Value:
+        header: {fileID: 21300000, guid: a7cb4aecd59ed48389d64f79fc6e4b9f, type: 3}
+        fabric: {fileID: 21300000, guid: d724aaff76d014b1a82f0ee22a5b04f9, type: 3}
+    - Key: 5
+      Value:
+        header: {fileID: 21300000, guid: ff23112f0058749e893916b872635f6a, type: 3}
+        fabric: {fileID: 21300000, guid: 07ae0a3de8827485390ca555be10d050, type: 3}
+    - Key: 6
+      Value:
+        header: {fileID: 21300000, guid: d5d26c82f7dae43af865a7a5950a289c, type: 3}
+        fabric: {fileID: 21300000, guid: e751378d8841140669d4f284f3a3f03a, type: 3}
+    - Key: 7
+      Value:
+        header: {fileID: 21300000, guid: ac9baf9b3b6bd459c9ac165fd7f39245, type: 3}
+        fabric: {fileID: 21300000, guid: 161bd8c2a7615428ab2db1419045bc78, type: 3}
+    - Key: 8
+      Value:
+        header: {fileID: 21300000, guid: 5cd5e67a4d23746a5b920acb60e47d9b, type: 3}
+        fabric: {fileID: 21300000, guid: ba0e691b233824dc4aa3122b90c60627, type: 3}
+    - Key: 9
+      Value:
+        header: {fileID: 21300000, guid: dcb6a5caf5bac42829ff806872f5a7ee, type: 3}
+        fabric: {fileID: 21300000, guid: d209df010e04549bc9e997ae5fa26aa8, type: 3}
+    - Key: 10
+      Value:
+        header: {fileID: 21300000, guid: 8d910aacb73c9415fa57b91ac99f5ce3, type: 3}
+        fabric: {fileID: 21300000, guid: 3e6ed804ff54a437ead4d6b553ba0ae6, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 598ec2fecc3d4e57bb81d055c9c23915, type: 3}
+  m_Name: Slot Sprite Set
+  m_EditorClassIdentifier: Game::SlotSpriteSet
+  top: {fileID: 21300000, guid: 23213ec2308ea4aeb802240101893882, type: 3}
+  middle: {fileID: 21300000, guid: 805e6dfd28f6740258b676abe9114621, type: 3}
+  bottom: {fileID: 21300000, guid: 8a354bbad62f94f7491df69d7bbb5ce9, type: 3}
+  topLocked: {fileID: 0}
+  middleLocked: {fileID: 0}
+  bottomLocked: {fileID: 0}

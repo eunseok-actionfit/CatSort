@@ -1,0 +1,197 @@
+﻿{
+  "mode": "IapStoreProductJson",
+  "rows": [
+    {
+      "ProductKey": "mcs_starter_bundle",
+      "Platform": "GP",
+      "StoreProductId": "mcs_starter_bundle",
+      "Price": "1700",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_starter_bundle",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_starter_bundle",
+      "Price": "1700",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_apprentice_bundle",
+      "Platform": "GP",
+      "StoreProductId": "mcs_apprentice_bundle",
+      "Price": "7500",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_apprentice_bundle",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_apprentice_bundle",
+      "Price": "7500",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_magician_bundle",
+      "Platform": "GP",
+      "StoreProductId": "mcs_magician_bundle",
+      "Price": "17000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_magician_bundle",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_magician_bundle",
+      "Price": "17000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_sorcerer_bundle",
+      "Platform": "GP",
+      "StoreProductId": "mcs_sorcerer_bundle",
+      "Price": "33000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_sorcerer_bundle",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_sorcerer_bundle",
+      "Price": "33000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_mage_bundle",
+      "Platform": "GP",
+      "StoreProductId": "mcs_mage_bundle",
+      "Price": "75000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_mage_bundle",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_mage_bundle",
+      "Price": "75000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_wizard_bundle",
+      "Platform": "GP",
+      "StoreProductId": "mcs_wizard_bundle",
+      "Price": "170000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_wizard_bundle",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_wizard_bundle",
+      "Price": "170000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_1000_coin",
+      "Platform": "GP",
+      "StoreProductId": "mcs_1000_coin",
+      "Price": "3300",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_1000_coin",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_1000_coin",
+      "Price": "3300",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_5000_coin",
+      "Platform": "GP",
+      "StoreProductId": "mcs_5000_coin",
+      "Price": "13000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_5000_coin",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_5000_coin",
+      "Price": "13000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_10000_coin",
+      "Platform": "GP",
+      "StoreProductId": "mcs_10000_coin",
+      "Price": "25000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_10000_coin",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_10000_coin",
+      "Price": "25000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_25000_coin",
+      "Platform": "GP",
+      "StoreProductId": "mcs_25000_coin",
+      "Price": "42000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_25000_coin",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_25000_coin",
+      "Price": "42000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_50000_coin",
+      "Platform": "GP",
+      "StoreProductId": "mcs_50000_coin",
+      "Price": "85000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_50000_coin",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_50000_coin",
+      "Price": "85000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_100000_coin",
+      "Platform": "GP",
+      "StoreProductId": "mcs_100000_coin",
+      "Price": "170000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    },
+    {
+      "ProductKey": "mcs_100000_coin",
+      "Platform": "IOS",
+      "StoreProductId": "mcs_100000_coin",
+      "Price": "170000",
+      "Currency": "KRW",
+      "IsActive": "TRUE"
+    }
+  ]
+}

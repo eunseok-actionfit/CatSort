@@ -1,0 +1,12 @@
+﻿{
+  "mode": "IapLimitJson",
+  "rows": [
+    {
+      "ProductKey": "mcs_bundle_starter_01",
+      "LimitType": "ONE_TIME",
+      "LimitValue": "1",
+      "ResetType": "ACCOUNT",
+      "Note": "초회 한정"
+    }
+  ]
+}

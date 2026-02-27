@@ -1,0 +1,251 @@
+{
+    "LevelId": "level_014",
+    "Difficulty": 1,
+    "LayoutType": 0,
+    "SpacingX": 2.0,
+    "SpacingY": 5.5,
+    "GridRowCount": 2,
+    "ArcRadius": 5.0,
+    "ArcStartAngle": -45.0,
+    "ArcEndAngle": 45.0,
+    "Columns": [
+        {
+            "Capacity": 4,
+            "BehaviorType": 0,
+            "LockColor": 0,
+            "Id": {},
+            "CatsFromBottomToTop": [
+                {
+                    "Color": 6,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 9,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 10,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 2,
+                    "IsHidden": false,
+                    "Id": {}
+                }
+            ]
+        },
+        {
+            "Capacity": 4,
+            "BehaviorType": 0,
+            "LockColor": 0,
+            "Id": {},
+            "CatsFromBottomToTop": [
+                {
+                    "Color": 4,
+                    "IsHidden": false,
+                    "Id": {}
+                },
+                {
+                    "Color": 7,
+                    "IsHidden": false,
+                    "Id": {}
+                },
+                {
+                    "Color": 5,
+                    "IsHidden": false,
+                    "Id": {}
+                },
+                {
+                    "Color": 2,
+                    "IsHidden": false,
+                    "Id": {}
+                }
+            ]
+        },
+        {
+            "Capacity": 4,
+            "BehaviorType": 0,
+            "LockColor": 0,
+            "Id": {},
+            "CatsFromBottomToTop": [
+                {
+                    "Color": 5,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 3,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 10,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 9,
+                    "IsHidden": false,
+                    "Id": {}
+                }
+            ]
+        },
+        {
+            "Capacity": 4,
+            "BehaviorType": 0,
+            "LockColor": 0,
+            "Id": {},
+            "CatsFromBottomToTop": [
+                {
+                    "Color": 7,
+                    "IsHidden": false,
+                    "Id": {}
+                },
+                {
+                    "Color": 4,
+                    "IsHidden": false,
+                    "Id": {}
+                },
+                {
+                    "Color": 9,
+                    "IsHidden": false,
+                    "Id": {}
+                },
+                {
+                    "Color": 10,
+                    "IsHidden": false,
+                    "Id": {}
+                }
+            ]
+        },
+        {
+            "Capacity": 4,
+            "BehaviorType": 0,
+            "LockColor": 0,
+            "Id": {},
+            "CatsFromBottomToTop": [
+                {
+                    "Color": 3,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 6,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 2,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 6,
+                    "IsHidden": false,
+                    "Id": {}
+                }
+            ]
+        },
+        {
+            "Capacity": 4,
+            "BehaviorType": 0,
+            "LockColor": 0,
+            "Id": {},
+            "CatsFromBottomToTop": [
+                {
+                    "Color": 3,
+                    "IsHidden": false,
+                    "Id": {}
+                },
+                {
+                    "Color": 3,
+                    "IsHidden": false,
+                    "Id": {}
+                },
+                {
+                    "Color": 2,
+                    "IsHidden": false,
+                    "Id": {}
+                },
+                {
+                    "Color": 10,
+                    "IsHidden": false,
+                    "Id": {}
+                }
+            ]
+        },
+        {
+            "Capacity": 4,
+            "BehaviorType": 0,
+            "LockColor": 0,
+            "Id": {},
+            "CatsFromBottomToTop": [
+                {
+                    "Color": 4,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 6,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 7,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 5,
+                    "IsHidden": false,
+                    "Id": {}
+                }
+            ]
+        },
+        {
+            "Capacity": 4,
+            "BehaviorType": 0,
+            "LockColor": 0,
+            "Id": {},
+            "CatsFromBottomToTop": []
+        },
+        {
+            "Capacity": 4,
+            "BehaviorType": 0,
+            "LockColor": 0,
+            "Id": {},
+            "CatsFromBottomToTop": [
+                {
+                    "Color": 4,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 5,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 7,
+                    "IsHidden": true,
+                    "Id": {}
+                },
+                {
+                    "Color": 9,
+                    "IsHidden": false,
+                    "Id": {}
+                }
+            ]
+        },
+        {
+            "Capacity": 4,
+            "BehaviorType": 0,
+            "LockColor": 0,
+            "Id": {},
+            "CatsFromBottomToTop": []
+        }
+    ]
+}
